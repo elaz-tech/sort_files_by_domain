@@ -1,0 +1,217 @@
+{
+  "_comment": "Domain Sorter — keyword configuration file.",
+    "Finance": [
+        "facture", "bilan", "chiffre d'affaires", "bénéfice", "impôt", "budget",
+        "financier", "comptabilité", "paiement", "banque", "coût", "dépense",
+        "trésorerie", "actif", "passif", "amortissement", "créance", "dette",
+        "investissement", "dividende", "action", "obligation", "portefeuille"
+    ],
+    "Juridique": [
+        "contrat", "accord", "clause", "responsabilité", "tribunal", "loi",
+        "avocat", "juridique", "juridiction", "demandeur", "défendeur",
+        "litige", "procès", "règlement", "arbitrage", "conformité", "législation",
+        "code civil", "code pénal", "jurisprudence", "recours", "appel"
+    ],
+    "Médical": [
+        "patient", "diagnostic", "traitement", "clinique", "hôpital",
+        "médecin", "ordonnance", "symptôme", "maladie", "santé",
+        "chirurgie", "radiologie", "pharmacie", "urgence", "consultation", "pathologie",
+        "anatomie", "vaccin", "épidémie", "pronostic", "thérapie"
+    ],
+    "Technologie": [
+        "logiciel", "matériel", "api", "cloud", "serveur", "base de données",
+        "algorithme", "code", "python", "javascript", "réseau",
+        "cybersécurité", "intelligence artificielle", "machine learning", "développement", "infrastructure",
+        "devops", "container", "microservice", "open source", "agile"
+    ],
+    "Marketing": [
+        "campagne", "marque", "marché", "client", "publicité",
+        "réseaux sociaux", "seo", "conversion", "audience", "engagement",
+        "stratégie", "ciblage", "emailing", "contenu", "inbound", "lead",
+        "branding", "kpi", "retour sur investissement", "segmentation", "persona"
+    ],
+    "Ressources Humaines": [
+        "employé", "recrutement", "intégration", "évaluation de performance",
+        "paie", "avantages sociaux", "effectif", "salaire", "embauche",
+        "formation", "carrière", "congés", "syndicat", "entretien annuel",
+        "gpec", "bilan social", "turnover", "absentéisme", "diversité"
+    ],
+    "Science": [
+        "expérience", "hypothèse", "analyse de données", "recherche",
+        "méthodologie", "laboratoire", "résultats", "citation",
+        "protocole", "échantillon", "variable", "statistique", "publication", "pair",
+        "revue scientifique", "facteur d'impact", "comité de lecture", "reproductibilité"
+    ],
+    "Éducation": [
+        "cours", "programme", "élève", "apprentissage", "université",
+        "école", "enseignant", "examen", "note", "cours magistral",
+        "pédagogie", "diplôme", "formation continue", "classe", "devoir", "stage",
+        "mémoire", "thèse", "doctorat", "bourse", "inscription"
+    ],
+    "Gouvernement": [
+        "politique", "réglementation", "gouvernement", "ministère", "fonctionnaire",
+        "secteur public", "législation", "conformité", "autorité",
+        "administration", "décret", "subvention", "collectivité", "service public",
+        "préfecture", "mairie", "budget public", "marché public", "fonction publique"
+    ],
+    "Immobilier": [
+        "logement", "achat", "vente", "location", "hypothèque", "propriété",
+        "bail", "syndic", "copropriété", "diagnostic", "notaire", "agence immobilière",
+        "mètre carré", "loyer", "charges", "frais de notaire", "crédit immobilier",
+        "plus-value", "viager", "promoteur", "construction", "permis de construire"
+    ],
+    "Assurance": [
+        "contrat", "prime", "sinistre", "indemnisation", "franchise", "garantie",
+        "assuré", "risque", "mutuelle", "prévoyance", "dommages", "responsabilité civile",
+        "habitation", "auto", "vie", "courtier", "expertise", "souscription", "avenant"
+    ],
+    "Logistique": [
+        "transport", "livraison", "stock", "entrepôt", "chaîne d'approvisionnement",
+        "fret", "inventaire", "manutention", "expédition", "réception",
+        "flux", "traçabilité", "douane", "palette", "camion", "dernier kilomètre",
+        "supply chain", "cross-docking", "incoterm", "entreposage", "transitaire"
+    ],
+    "Énergie": [
+        "électricité", "gaz", "pétrole", "renouvelable", "éolien",
+        "solaire", "nucléaire", "consommation", "production", "réseau",
+        "transition énergétique", "carbone", "isolation", "compteur", "fournisseur",
+        "hydrogène", "biomasse", "géothermie", "autoconsommation", "smart grid"
+    ],
+    "Agriculture": [
+        "culture", "récolte", "élevage", "exploitation", "agriculteur",
+        "agriculture biologique", "irrigation", "semence", "engrais", "pesticide",
+        "bétail", "viticulture", "céréale", "subvention pac", "saison",
+        "agroécologie", "permaculture", "rendement", "jachère", "coopérative agricole"
+    ],
+    "Art et Culture": [
+        "exposition", "oeuvre", "artiste", "galerie", "musée",
+        "patrimoine", "spectacle", "théâtre", "cinéma", "musique",
+        "festival", "création", "diffusion", "subvention culturelle", "résidence artistique",
+        "conservation", "restauration", "mécénat", "industrie culturelle", "numérisation"
+    ],
+    "Mathématiques": [
+        "théorème", "démonstration", "équation", "intégrale", "dérivée",
+        "probabilité", "statistique", "algèbre", "géométrie", "matrice",
+        "vecteur", "fonction", "limite", "série", "topologie",
+        "espace vectoriel", "nombre complexe", "logarithme", "exponentielle", "optimisation",
+        "analyse numérique", "modélisation", "discrétisation", "convergence"
+    ],
+    "Économie": [
+        "marché", "offre", "demande", "prix", "concurrence",
+        "monopole", "croissance", "inflation", "pib", "chômage",
+        "politique monétaire", "taux d'intérêt", "banque centrale", "commerce international",
+        "développement", "crise économique", "cycle", "dette publique", "déficit"
+    ],
+    "Développement Informatique": [
+        "développement", "programmation", "code source", "compilation", "debug",
+        "ide", "versioning", "git", "déploiement", "intégration continue",
+        "test unitaire", "refactoring", "framework", "bibliothèque", "api rest",
+        "architecture logicielle", "mvc", "clean code", "revue de code", "sprint"
+    ],
+    "Réseau Informatique": [
+        "réseau", "routeur", "switch", "protocole", "tcp/ip",
+        "dns", "firewall", "vpn", "lan", "wan",
+        "adresse ip", "sous-réseau", "bande passante", "latence", "proxy",
+        "vlan", "ospf", "bgp", "wi-fi", "ethernet", "topologie réseau"
+    ],
+    "Programmation": [
+        "algorithme", "variable", "fonction", "boucle", "condition",
+        "classe", "objet", "héritage", "polymorphisme", "interface",
+        "pointeur", "structure de données", "pile", "file", "liste chaînée",
+        "récursivité", "tri", "complexité", "compilation", "interpréteur"
+    ],
+    "Intelligence Artificielle": [
+        "intelligence artificielle", "machine learning", "deep learning", "réseau de neurones",
+        "entraînement", "inférence", "dataset", "supervisé", "non supervisé",
+        "classification", "régression", "clustering", "nlp", "computer vision",
+        "llm", "transformer", "gpt", "tensorflow", "pytorch",
+        "overfitting", "validation croisée", "hyperparamètre", "embedding", "tokenisation"
+    ],
+    "Culture Générale": [
+        "histoire", "géographie", "littérature", "philosophie", "art",
+        "musique", "cinéma", "politique", "société", "civilisation",
+        "mythologie", "religion", "découverte", "invention", "courant artistique",
+        "culture", "tradition", "patrimoine", "encyclopédie", "érudition"
+    ],
+    "Physique": [
+        "mécanique", "électromagnétisme", "thermodynamique", "optique", "quantique",
+        "newton", "einstein", "force", "énergie", "masse",
+        "vitesse", "accélération", "onde", "particule", "atome",
+        "noyau", "relativité", "gravitation", "entropie", "photon"
+    ],
+    "Chimie": [
+        "atome", "molécule", "réaction", "liaison", "électron",
+        "élément", "tableau périodique", "acide", "base", "ph",
+        "oxydation", "réduction", "catalyseur", "solvant", "précipité",
+        "organique", "inorganique", "polymère", "distillation", "titrage", "chromatographie"
+    ],
+    "Sciences Naturelles": [
+        "biologie", "écologie", "écosystème", "biodiversité", "espèce",
+        "évolution", "génétique", "cellule", "organisme", "photosynthèse",
+        "géologie", "minéral", "fossile", "climat", "environnement",
+        "faune", "flore", "chaîne alimentaire", "habitat", "conservation"
+    ],
+    "Comptabilité Générale": [
+        "compte", "plan comptable", "journal", "grand livre", "balance",
+        "écriture comptable", "débit", "crédit", "actif", "passif",
+        "produit", "charge", "résultat", "clôture", "exercice comptable",
+        "immobilisation", "stock", "créance client", "dette fournisseur", "trésorerie"
+    ],
+    "Comptabilité Analytique": [
+        "coût", "marge", "centre d'analyse", "coût direct", "coût indirect",
+        "imputation", "répartition", "unité d'oeuvre", "coût complet", "coût variable",
+        "seuil de rentabilité", "coût marginal", "section homogène", "coût standard",
+        "écart", "activité", "inducteur de coût", "abc", "rentabilité", "contribution"
+    ],
+    "Microéconomie": [
+        "microéconomie", "consommateur", "producteur", "utilité", "préférence",
+        "contrainte budgétaire", "fonction de production", "coût marginal", "recette marginale",
+        "équilibre partiel", "élasticité", "surplus", "bien public", "externalité",
+        "théorie des jeux", "asymétrie d'information", "optimum de pareto", "courbe d'indifférence"
+    ],
+    "Macroéconomie": [
+        "macroéconomie", "produit intérieur brut", "inflation", "chômage", "consommation",
+        "investissement", "dépense publique", "exportation", "importation", "taux de change",
+        "modèle is-lm", "politique budgétaire", "politique monétaire", "croissance endogène",
+        "cycle économique", "dette souveraine", "balance des paiements", "agrégat monétaire"
+    ],
+    "Équilibre Général Calculable": [
+        "équilibre général", "calculable", "mcg", "matrice de comptabilité sociale",
+        "calibrage", "paramètre", "fermeture", "facteur de production", "ménage",
+        "firme", "gouvernement", "reste du monde", "élasticité de substitution",
+        "cobb-douglas", "ces", "leontief", "commerce international", "tarif douanier",
+        "libéralisation", "simulation", "choc", "contrefactuel", "gtap"
+    ],
+    "Python": [
+        "python", "pandas", "numpy", "matplotlib", "scikit-learn",
+        "flask", "django", "jupyter", "pip", "conda",
+        "liste", "dictionnaire", "tuple", "décorateur", "compréhension de liste",
+        "générateur", "lambda", "poo", "exception", "module", "package", "venv"
+    ],
+    "Java": [
+        "java", "jvm", "spring", "hibernate", "maven",
+        "gradle", "classe", "interface", "héritage", "polymorphisme",
+        "collection", "stream", "thread", "exception", "annotation",
+        "jdbc", "servlet", "jpa", "jar", "bytecode", "garbage collector"
+    ],
+    "GAMS": [
+        "gams", "modélisation", "optimisation", "solveur", "set",
+        "parameter", "variable", "equation", "model", "solve",
+        "lp", "nlp", "mip", "loop", "display",
+        "scalar", "table", "sum", "prod", "alias", "option", "include"
+    ],
+    "Management": [
+        "management", "stratégie", "organisation", "leadership", "équipe",
+        "objectif", "kpi", "performance", "délégation", "motivation",
+        "swot", "pestel", "balanced scorecard", "conduite du changement",
+        "agilité", "lean management", "six sigma", "benchmarking", "décision", "planification"
+    ],
+    "Littéraire": [
+        "roman", "poésie", "théâtre", "essai", "nouvelle",
+        "auteur", "narrateur", "intrigue", "personnage", "style",
+        "figure de style", "métaphore", "allégorie", "rime", "vers",
+        "prose", "classicisme", "romantisme", "réalisme", "surréalisme",
+        "autobiographie", "biographie", "correspondance", "préface", "postface"
+    ],
+	"Other": []
+}
